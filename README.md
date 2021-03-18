@@ -84,6 +84,8 @@ Go-Spring 提供了一个功能强大的启动器框架，不仅实现了自动�
 下面的示例使用 v1.0.5 版本测试通过。
 
 ```
+package main
+
 import (
 	"context"
 
